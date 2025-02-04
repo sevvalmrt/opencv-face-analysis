@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Feb  4 14:15:15 2025
-
-@author: ŞEVVAL MURAT
-"""
-
 import cv2
 
 def yukle_model(yuz_path, goz_path):
